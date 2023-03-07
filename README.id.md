@@ -9,9 +9,9 @@ ditulis di bahasa [Python](https://www.python.org/)
 
 ## Daftar isi
 
-- [Fitur utama][#fitur-utama]
-- [Format yang didukung][#format-yang-didukung]
-- [Instalasi][#instalasi]
+- [Fitur utama](#fitur-utama)
+- [Format yang didukung](#format-yang-didukung)
+- [Instalasi](#instalasi)
     - [Python Package Index (PyPI)](#instalasi-pypi)
     - [Satu paket aplikasi](#instalasi-satu-paket-aplikasi)
     - [Versi perkembangan](#instalasi-versi-perkembangan)
